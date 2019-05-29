@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_first">First Page</string>
+    <string name="label_second">Second Page</string>
+    <string name="label_third">Third Page</string>
+    <string name="music_1">《我，堂吉诃德》</string>
+    <string name="intro_1">16世纪末的西班牙，作家、演员、剧作家和兼职税收员米格尔•德•塞万提斯因为试图向一所教堂征税而被宗教法庭逮捕。
+        塞万提斯和他的仆人被扔进监狱的一个单间里，与强盗和小偷关在一起。  他们被夺去了随身财物，为了活命而不得不接受其他犯人的拷问，他要用他所写的故事来为自己辩护。
+        这个故事是关于一个叫阿隆索. 基哈诺的年老地主，他钟情于骑士年代，现在他将自己称为堂吉诃德，来自拉曼查的骑士。
+        塞万提斯和他的仆人说服犯人们配合他们，一切排演一出关于堂吉诃德的戏剧，在排演的过程中，堂吉诃德的故事感动了这些穷凶极恶，对生活失去了任何希望的人们。
+        塞万提斯赢得了狱友们的敬佩，虽然他即将走上法庭面临最后的审判，但是他的故事和犯人们的人生，也许已经彻底地被改变了……</string>
+    <string name="music_2">《汉密尔顿》</string>
+    <string name="intro_2"><![CDATA[亚历山大·汉密尔顿（Alexander Hamilton，1757年1月11日 - 1804年7月12日）是美国的开国元勋之一，也是美国的第一任财政部长。出生在加勒比海的小岛、在纽约国王学院接受教育，志愿参军，在独立战争中得到华盛顿赏识成为他的副手，在 Yorktown 战役中领兵对抗英军。建国后他主张建立强大的中央政府和中央军队。他左右了前三届总统的选举。他一手创立的金融机制使美国快速地在战后实现经济繁荣。Hamilton 也是美国第一个传出桃色丑闻的公职人员。49岁时与当时的副总统 Aaron Burr 决斗时放弃开枪机会，次日丧生。  这部音乐剧严格遵照历史，讲述 Hamilton 政治生涯中的几件大事，他的战友和政敌、他与妻子 Eliza 和长子 Philip 的深厚感情以及他犯下的错误。历史人物 George Washington、Thomas Jefferson & James Madison 等在剧中轮流出场。剧中音乐以Hip-hop为主，穿插了Jazz，R&B, Tin Pan Alley 等多种风格的歌曲。]]></string>
+    <string name="music_3">《来自远方》</string>
+    <string name="intro_3">根据真实的故事改编，讲述的是当孤立的甘德社区成为世界的主人时，纽芬兰岛的故事。2001年9月11日，38架载着成千上万来自世界各地的乘客的飞机被转移到甘德机场，原本只是一个小镇上普通的一天，结果却变成了国际间的过夜地。甘达尔人并不畏惧文化冲突和语言障碍，他们用音乐、开放的酒吧和对我们都是全球大家庭的一份子的认可来为滞留在这里的旅行者加油鼓气。</string>
+</resources>
